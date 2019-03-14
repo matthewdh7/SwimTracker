@@ -1,3 +1,5 @@
+package com.example.hungmat20.swimtracker;
+
 import java.lang.reflect.Array;
 
 public class Event {
